@@ -1,0 +1,21 @@
+.about-us h4 {
+  color: white;
+}
+
+.about-us h1 {
+  color: white;
+}
+
+.flaticon-brickwall:before {
+  color: #fff;
+}
+
+.team-member {
+  color: white;
+}
+
+.contact h4 {
+  color: #dfc614;
+  -webkit-text-stroke-width: 0.7px;
+  -webkit-text-stroke-color: black;
+}
