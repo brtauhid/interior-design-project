@@ -49,3 +49,20 @@ img.card-img-top {
 .display-none {
   display: none;
 }
+
+i.fa.fa-angle-left {
+  color: white;
+}
+
+i.fa.fa-angle-right {
+  color: white;
+}
+
+.service-carousel .owl-nav .owl-prev {
+  margin-left: -15px;
+}
+
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  background: #a34535 !important;
+}
