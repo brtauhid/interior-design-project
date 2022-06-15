@@ -33,3 +33,15 @@ a.nav-item.nav-link.active {
 .topbar-bg {
   background-color: #c5af18 !important;
 }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px !important;
+  object-fit: cover;
+}
+
+img.card-img-top {
+  max-height: 211px;
+  object-fit: cover;
+}
